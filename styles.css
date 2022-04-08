@@ -43,6 +43,11 @@
 #hero-content a:hover {
   background-color: rgb(255, 238, 0);
 }
+
+#highlight {
+  padding: 24px;
+  background: linear-gradient(0deg, rgb(227, 255, 253), rgb(94, 211, 203));
+}
 #destinations {
   justify-content: center;
   display: flex;
